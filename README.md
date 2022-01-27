@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://user-images.githubusercontent.com/58793422/151459370-a9b83728-8208-45df-be3f-55f9da6bc143.mov
-
 
 ## Notes
 
