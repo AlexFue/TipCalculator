@@ -30,6 +30,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Screen Recording 2022-01-27 at 3.12.49 PM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://user-images.githubusercontent.com/58793422/151459370-a9b83728-8208-45df-be3f-55f9da6bc143.mov
+
+
 ## Notes
 
 Make sure to create the project as a repo first to avoid any hassals later on to get it on github.
